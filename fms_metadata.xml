@@ -1,0 +1,2391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MetaFile Type="System" Version="1.0.0.0">
+  <Font Family="Marlett">
+    <Meta Name="Scripts">Zsym;</Meta>
+  </Font>
+  <Font Family="Andalus">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Arab;</Meta>
+    <Meta Name="Vendor">Glyph Systems</Meta>
+  </Font>
+  <Font Family="Arial Unicode MS">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;Arab;Hebr;</Meta> 
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Terminal">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Courier">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Fixedsys">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Modern">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS Serif">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS Sans Serif">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Roman">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Script">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Small Fonts">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="System">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Bookshelf Symbol 7">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft Sans Serif">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;Hebr;Arab;Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS Outlook">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS Reference Sans Serif">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS Reference Specialty">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Arabic Typesetting">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Arab;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="HGMaruGothicMPRO">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co., Ltd.</Meta>  
+  </Font>
+  <Font Family="Estrangelo Edessa">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Syrc;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft Uighur">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">ug-Arab;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MV Boli">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thaa;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Sakkal Majalla">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Arab;</Meta>
+    <Meta Name="Vendor">Sakkal Design</Meta>
+  </Font>
+  <Font Family="Simplified Arabic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Arab;</Meta>
+    <Meta Name="Vendor">Compugraphic Corp.</Meta>
+  </Font>
+  <Font Family="Simplified Arabic Fixed">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Arab;</Meta>
+    <Meta Name="Vendor">Compugraphic Corp.</Meta>
+  </Font>
+  <Font Family="Traditional Arabic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Arab;</Meta>
+    <Meta Name="Vendor">Compugraphic Corp.</Meta>
+  </Font>
+  <Font Family="Urdu Typesetting"> 
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Arab;</Meta> 
+    <Meta Name="Vendor">Microsoft Corporation</Meta> 
+  </Font>
+  <Font Family="Aldhabi"> 
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Arab;</Meta> 
+    <Meta Name="Vendor">Microsoft Corporation</Meta> 
+  </Font>
+  <Font Family="FangSong">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Beijing ZhongYi Electronics Co.</Meta>
+  </Font>
+  <Font Family="KaiTi">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Beijing ZhongYi Electronics Co.</Meta>
+  </Font>
+  <Font Family="Microsoft YaHei">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft YaHei Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft YaHei UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft YaHei UI Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="NSimSun">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Beijing ZhongYi Electronics, Co.</Meta>
+  </Font>
+  <Font Family="SimHei">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Beijing ZhongYi Electronics, Co.</Meta>
+  </Font>
+  <Font Family="SimSun">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Beijing ZhongYi Electronics, Co.</Meta>
+  </Font>
+  <Font Family="SimSun-ExtB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Beijing ZhongYi Electronics, Co.</Meta>
+  </Font>
+  <Font Family="DengXian">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Founder Corporation</Meta>
+  </Font>
+  <Font Family="DFKai-SB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">DynaLab, Inc.</Meta>
+  </Font>
+  <Font Family="Microsoft JhengHei">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft JhengHei Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft JhengHei UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft JhengHei UI Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MingLiU">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">DynaComware Corp.</Meta>
+  </Font>
+  <Font Family="MingLiU-ExtB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">DynaComware Corp.</Meta>
+  </Font>
+  <Font Family="MingLiU_HKSCS">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant-HK;</Meta>
+    <Meta Name="Vendor">DynaComware Corp.</Meta>
+  </Font>
+  <Font Family="MingLiU_HKSCS-ExtB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant-HK;</Meta>
+    <Meta Name="Vendor">DynaComware Corp.</Meta>
+  </Font>
+  <Font Family="PMingLiU">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">DynaComware Corp.</Meta>
+  </Font>
+  <Font Family="PMingLiU-ExtB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hant;</Meta>
+    <Meta Name="Vendor">DynaComware Corp.</Meta>
+  </Font>
+  <Font Family="Arial">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Hebr;Arab;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Calibri">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Hebr;Arab;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Cambria">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Cambria Math">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;Zmth;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Candara">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+    <Font Family="Gadugi">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Cher;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Comic Sans MS">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Consolas">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Constantia">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Corbel">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Courier New">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Hebr;Arab;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Euphemia">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Cans;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks</Meta>
+  </Font>
+  <Font Family="Franklin Gothic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Gabriola">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Georgia">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Carter + Cone</Meta>
+  </Font>
+  <Font Family="Impact">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Lao UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Laoo;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Lucida Console">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Bigelow &amp; Holmes</Meta>
+  </Font>
+  <Font Family="Lucida Sans Unicode">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Hebr;</Meta>
+    <Meta Name="Vendor">Bigelow &amp; Holmes</Meta>
+  </Font>
+  <Font Family="Palatino Linotype">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">LINOTYPE-AG</Meta>
+  </Font>
+  <Font Family="Plantagenet Cherokee">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Cher;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks</Meta>
+  </Font>
+  <Font Family="Segoe Print">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Segoe Script">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+<Font Family="Segoe UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+<Font Family="Segoe UI" Style="Normal" Stretch="Normal" Weight="Regular">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;Geok;Arab;Hebr;Lisu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Segoe UI" Style="Normal" Stretch="Normal" Weight="Bold">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;Geok;Arab;Hebr;Lisu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+</Font>
+<Font Family="Segoe UI" Style="Normal" Stretch="Normal" Weight="Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;Geok;Arab;Hebr;Lisu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Segoe UI" Style="Normal" Stretch="Normal" Weight="Semilight">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;Geok;Arab;Hebr;Lisu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+</Font>
+<Font Family="Segoe UI" Style="Normal" Stretch="Normal" Weight="Semibold">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;Geok;Arab;Hebr;Lisu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+</Font>
+<Font Family="Segoe UI" Style="Italic" Stretch="Normal" Weight="Regular">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Segoe UI" Style="Italic" Stretch="Normal" Weight="Bold">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+</Font>
+<Font Family="Segoe UI" Style="Italic" Stretch="Normal" Weight="Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Segoe UI" Style="Italic" Stretch="Normal" Weight="Semilight">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+</Font>
+<Font Family="Segoe UI" Style="Italic" Stretch="Normal" Weight="Semibold">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Geor;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+</Font>
+<Font Family="Segoe UI" Style="Normal" Stretch="Normal" Weight="Black">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Lisu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+</Font>
+<Font Family="Segoe UI" Style="Italic" Stretch="Normal" Weight="Black">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Lisu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+</Font>
+  <Font Family="Segoe UI Symbol">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;Brai;Dsrt;Copt;Zmth;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Segoe UI Historic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Armi;Brah;Cari;cprt;Egyp;Khar;Lyci;Lydi;Phli;Phnx;Prti;Sarb;Shaw;Syrc;Ugar;Xpeo;Xsux;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Segoe UI Emoji">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Segoe MDL2 Assets">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Symbol">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Tahoma">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Hebr;Arab;Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Times New Roman">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;Hebr;Arab;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Trebuchet MS">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;Armn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Verdana">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Carter + Cone</Meta>
+  </Font>
+  <Font Family="Webdings">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Wingdings">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Aharoni" Style="Normal" Stretch="Normal" Weight="Regular">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Kivun Computers Ltd.</Meta>
+  </Font>
+  <Font Family="Aharoni" Style="Normal" Stretch="Normal" Weight="Bold">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Kivun Computers Ltd.</Meta>
+  </Font>
+  <Font Family="David">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Kivun Computers Ltd.</Meta>
+  </Font>
+  <Font Family="FrankRuehl">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Kivun Computers Ltd.</Meta>
+  </Font>
+  <Font Family="Gisha">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Levenim MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Miriam">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Kivun Computers Ltd.</Meta>
+  </Font>
+  <Font Family="Miriam Fixed">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Kivun Computers Ltd.</Meta>
+  </Font>
+  <Font Family="Narkisim">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Zvi Narkis</Meta>
+  </Font>
+  <Font Family="Rod">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hebr;</Meta>
+    <Meta Name="Vendor">Kivun Computers Ltd.</Meta>
+  </Font>
+  <Font Family="Aparajita">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Deva;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Gautami">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Telu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Iskoola Pota">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Sinh;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Kalinga">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Orya;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Kartika">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Mlym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Kokila">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Deva;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Latha">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Taml;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Mangal">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Deva;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Sanskrit Text">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Deva;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Raavi">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Guru;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Shonar Bangla">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Beng;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Shruti">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Gujr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Tunga">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Knda;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Utsaah">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Deva;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Vani">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Telu;</Meta>
+    <Meta Name="Vendor">Ascender Corporation</Meta>
+  </Font>
+  <Font Family="Vijaya">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Taml;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Vrinda">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Beng;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Nirmala UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts"> Taml;Beng;Deva;Gujr;Guru;Knda;Mlym;Orya;Sinh;Telu;Olck;Sora;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Nirmala UI" Style="Normal" Stretch="Normal" Weight="Regular">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Taml;Beng;Deva;Gujr;Guru;Knda;Mlym;Orya;Sinh;Telu;Olck;Sora;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Nirmala UI" Style="Normal" Stretch="Normal" Weight="Bold">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Taml;Beng;Deva;Gujr;Guru;Knda;Mlym;Orya;Sinh;Telu;Olck;Sora;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Nirmala UI" Style="Normal" Stretch="Normal" Weight="Semilight">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Taml;Beng;Deva;Gujr;Guru;Knda;Mlym;Orya;Sinh;Telu;Olck;Sora;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Meiryo">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Meiryo UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+    <Font Family="Yu Gothic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Jiyukobo Ltd.</Meta>
+  </Font>
+  <Font Family="Yu Gothic Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Jiyukobo Ltd.</Meta>
+  </Font>
+  <Font Family="Yu Gothic UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Jiyukobo Ltd.</Meta>
+  </Font>
+  <Font Family="Yu Mincho">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Jiyukobo Ltd.</Meta>
+  </Font>
+  <Font Family="Yu Mincho Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Jiyukobo Ltd.</Meta>
+  </Font>
+  <Font Family="MS Gothic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS Mincho">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS PGothic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS PMincho">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MS UI Gothic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Batang">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Han Yang I &amp; C Co. Ltd.</Meta>
+  </Font>
+  <Font Family="BatangChe">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Han Yang I &amp; C Co. Ltd.</Meta>
+  </Font>
+  <Font Family="Dotum">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Han Yang I &amp; C Co. Ltd.</Meta>
+  </Font>
+  <Font Family="DotumChe">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Han Yang I &amp; C Co. Ltd.</Meta>
+  </Font>
+  <Font Family="Gulim">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Han Yang I &amp; C Co. Ltd.</Meta>
+  </Font>
+  <Font Family="GulimChe">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Han Yang I &amp; C Co. Ltd.</Meta>
+  </Font>
+  <Font Family="Gungsuh">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Han Yang I &amp; C Co. Ltd.</Meta>
+  </Font>
+  <Font Family="GungsuhChe">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Han Yang I &amp; C Co. Ltd.</Meta>
+  </Font>
+  <Font Family="Javanese Text">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Java;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks</Meta>
+  </Font>
+  <Font Family="Malgun Gothic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Ebrima">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Vaii;Nkoo;Tfng;Osma;Ethi;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft Himalaya">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Tibt;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Myanmar Text">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Mymr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta> 
+  </Font>
+  <Font Family="Microsoft New Tai Lue">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Talu;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft PhagsPa">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Phag;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft Tai Le">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Tale;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Microsoft Yi Baiti">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Yiii;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Mongolian Baiti">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Mong;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Nyala">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Ethi;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks</Meta>
+  </Font>
+  <Font Family="Sylfaen">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Grek;Cyrl;Armn;Geor;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks</Meta>
+  </Font>
+  <Font Family="Angsana New">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="AngsanaUPC">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Browallia New">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="BrowalliaUPC">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Cordia New">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="CordiaUPC">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="DaunPenh">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Khmr;</Meta>
+    <Meta Name="Vendor">OM Mony</Meta>
+  </Font>
+  <Font Family="DilleniaUPC">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="DokChampa">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Laoo;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="EucrosiaUPC">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="FreesiaUPC">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="IrisUPC">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="JasmineUPC">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Khmer UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Khmr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="KodchiangUPC">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Leelawadee">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Leelawadee UI">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;Laoo;Bugi;Khmr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Leelawadee UI" Style="Normal" Stretch="Normal" Weight="Regular">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;Laoo;Bugi;Khmr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Leelawadee UI" Style="Normal" Stretch="Normal" Weight="Bold">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;Laoo;Bugi;Khmr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Leelawadee UI" Style="Normal" Stretch="Normal" Weight="Semilight">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Thai;Laoo;Bugi;Khmr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="LilyUPC">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Thai;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="MoolBoran">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Khmr;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="FZShuTi">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Founder Corporation</Meta>
+  </Font>
+  <Font Family="FZYaoTi">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Founder Corporation</Meta>
+  </Font>
+  <Font Family="LiSu">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Stone Co., Beijing</Meta>
+  </Font>
+  <Font Family="STCaiyun">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="STFangsong">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="STHupo">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="STKaiti">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="STLiti">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd</Meta>
+  </Font>
+  <Font Family="STSong">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="STXihei">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="STXingkai">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="STXinwei">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="STZhongsong">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Changzhou SinoType Technology Co., Ltd.</Meta>
+  </Font>
+  <Font Family="YouYuan">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Hans;</Meta>
+    <Meta Name="Vendor">Stone Co., Beijing</Meta>
+  </Font>
+  <Font Family="HGGothicE">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGGothicM">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGGyoshotai">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGKyokashotai">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGMinchoB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGMinchoE">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPGothicE">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPGothicM">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPGyoshotai">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPKyokashotai">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPMinchoB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPMinchoE">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPSoeiKakugothicUB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPSoeiKakupoptai">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGPSoeiPresenceEB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSeikaishotaiPRO">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSGothicE">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSGothicM">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSGyoshotai">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSKyokashotai">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSMinchoB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSMinchoE">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSoeiKakugothicUB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSoeiKakupoptai">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSoeiPresenceEB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSSoeiKakugothicUB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSSoeiKakupoptai">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="HGSSoeiPresenceEB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Jpan;</Meta>
+    <Meta Name="Vendor">RICOH Co.,Ltd.</Meta>
+  </Font>
+  <Font Family="OCRB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW</Meta>
+  </Font>
+  <Font Family="Ami R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Expo M">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Headline R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="HYGothic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYGothic-Extra">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="HYGraphic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="HYGungSo">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="HYHeadLine">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="HYMyeongJo-Extra">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="HYPMokGak">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYPost">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYShortSamul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSinMyeongJo">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="Magic R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="MoeumT R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="New Gulim">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang System Co., LTD.</Meta>
+  </Font>
+  <Font Family="Pyunji R">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Yet R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HUMAN COMPUTERS, INC.</Meta>
+  </Font>
+  <Font Family="Ahn B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Ahn L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Ahn M">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Batang Old Koreul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="Big Round R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Big Sans R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Dotum Old Koreul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="Expo B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Expo L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Garam B">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic B">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic Newsletter">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic Round B">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic Round L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic Round R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic Round XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gothic XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Graphic B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Graphic New R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Graphic R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Graphic Sans B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Graphic Sans R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Gungsuh Old Koreul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="Gungsuh R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Headline Sans R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="HYBackSong">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYBudle">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYHaeSo">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYKHeadLine">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYKHeadLine" Style="Normal" Stretch="Normal" Weight="Normal">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYLongSamul">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYLongSamul" Style="Normal" Stretch="Normal" Weight="Light">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYLongSamul" Style="Normal" Stretch="Normal" Weight="Normal">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYMokGak">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYMokPan">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYMyeongJo">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYMyeongJo" Weight="Extra Bold">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYPillGi">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYPMokPan">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYRGothic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSeNse">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSinGraphic">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSinMun-MyeongJo">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSinMyeongJo-Medium-HanjaA">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSinMyeongJo-Medium-HanjaB">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSinMyeongJo-Medium-HanjaC">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSooN-MyeongJo">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSymbolA">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSymbolB">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSymbolC">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSymbolD">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSymbolE">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSymbolF">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSymbolG">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYSymbolH">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYTaJa">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYTaJa" Style="Normal" Stretch="Normal" Weight="Bold">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYTaJaFull">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYTaJaFull" Style="Normal" Stretch="Normal" Weight="Bold">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYTeBack">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYYeaSo">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYYeasoL">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="HYYeatGul">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="Jasu B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Jasu L">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Jasu R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Jasu XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Meorimyungjo B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Meorimyungjo XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Modak R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="MoeumT B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="MoeumT L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="MoeumT XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Myungjo B">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Myungjo L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Myungjo Newsletter">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Myungjo R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Myungjo SK B">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Myungjo XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Namu B">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Namu L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Namu R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Namu XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="New Batang">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc. </Meta>
+  </Font>
+  <Font Family="New Dotum">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="New Gungsuh">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="NewGulim Old Koreul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="NewGulim Old Hangul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="Batang Old Hangul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="Dotum Old Hangul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="Gungsuh Old Hangul">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">HanYang Systems Inc.</Meta>
+  </Font>
+  <Font Family="Pam B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Pam L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Pam M">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Pam New B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Pam New L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Pam New M">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Panhwa R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Saenaegi B">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Saenaegi L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Saenaegi R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Saenaegi XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Sam B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Sam L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Sam M">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Sam New B">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Sam New L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Sam New M">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Soha R">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Woorin R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Yeopseo R">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Yet Sans  XB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Yet Sans B">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Yet Sans L">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Yet Sans R">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Kore;</Meta>
+    <Meta Name="Vendor">Human Computers, Inc.</Meta>
+  </Font>
+  <Font Family="Agency FB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="Algerian">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW</Meta>
+  </Font>
+  <Font Family="Arial Rounded MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography, Ltd.</Meta>
+  </Font>
+  <Font Family="Baskerville Old Face">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Stephenson Blake</Meta>
+  </Font>
+  <Font Family="Bauhaus 93">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW++</Meta>
+  </Font>
+  <Font Family="Bell MT">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Berlin Sans FB">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="Bernard MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Blackadder ITC">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Bodoni MT">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Agfa Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Bodoni MT Poster">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Agfa Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Book Antiqua">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography, Inc.</Meta>
+  </Font>
+  <Font Family="Bookman Old Style">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography, Inc.</Meta>
+  </Font>
+  <Font Family="Bradley Hand ITC">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Britannic">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Stephenson Blake</Meta>
+  </Font>
+  <Font Family="Broadway">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW++</Meta>
+  </Font>
+  <Font Family="Brush Script MT">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Californian FB">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="Calisto MT">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Castellar">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Centaur">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Century">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Agfa Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Century Gothic">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography, Inc.</Meta>
+  </Font>
+  <Font Family="Century Schoolbook">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography, Inc.</Meta>
+  </Font>
+  <Font Family="Chiller">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Esselte Corporation</Meta>
+  </Font>
+  <Font Family="Colonna MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Cooper">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW++</Meta>
+  </Font>
+  <Font Family="Copperplate Gothic">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW++</Meta>
+  </Font>
+  <Font Family="Curlz MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Edwardian Script ITC">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Elephant">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Carter + Cone</Meta>
+  </Font>
+  <Font Family="Engravers MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Eras ITC">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Eras ITC" Style="Normal" Stretch="Normal" Weight="Medium">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Eras ITC" Style="Italic" Stretch="Normal" Weight="Bold">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Felix Titling">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Footlight MT">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Forte">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Agfa Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Franklin Gothic Book">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Freestyle Script">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="French Script MT">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Garamond">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography, Inc.</Meta>
+  </Font>
+  <Font Family="Gigi">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Gill Sans">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Gill Sans MT">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Gloucester MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Goudy Old Style">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW</Meta>
+  </Font>
+  <Font Family="Goudy Stout">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Haettenschweiler">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Harlow Solid">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW</Meta>
+  </Font>
+  <Font Family="Harrington">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="High Tower Text">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="Imprint MT Shadow">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Informal Roman">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Esselte Corporation</Meta>
+  </Font>
+  <Font Family="Jokerman">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Juice ITC">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Kristen ITC">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Kunstler Script">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW</Meta>
+  </Font>
+  <Font Family="Lucida Bright">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Bigelow &amp; Holmes</Meta>
+  </Font>
+  <Font Family="Lucida Calligraphy">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Bigelow &amp; Holmes</Meta>
+  </Font>
+  <Font Family="Lucida Fax">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Bigelow &amp; Holmes</Meta>
+  </Font>
+  <Font Family="Lucida Handwriting">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Bigelow &amp; Holmes</Meta>
+  </Font>
+  <Font Family="Lucida Sans">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Bigelow &amp; Holmes</Meta>
+  </Font>
+  <Font Family="Lucida Sans Typewriter">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Bigelow &amp; Holmes</Meta>
+  </Font>
+  <Font Family="Magneto">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="Maiandra GD">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Galápagos Design Group</Meta>
+  </Font>
+  <Font Family="Matura MT Script Capitals">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Mistral">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW</Meta>
+  </Font>
+  <Font Family="Modern No. 20">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Monotype Corsiva">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography, Inc.</Meta>
+  </Font>
+  <Font Family="Niagara Engraved">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="Niagara Solid">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="OCR A">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Old English Text MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Onyx">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Palace Script MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Papyrus">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Parchment">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Perpetua">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Perpetua Titling MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Playbill">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Poor Richard">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Pristina">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Rage">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Ravie">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="Rockwell">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Typography</Meta>
+  </Font>
+  <Font Family="Script MT">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Showcard Gothic">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">The Font Bureau, Inc.</Meta>
+  </Font>
+  <Font Family="Snap ITC">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Stencil">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW++</Meta>
+  </Font>
+  <Font Family="Tempus Sans ITC">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Tw Cen MT">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Monotype Corporation</Meta>
+  </Font>
+  <Font Family="Viner Hand ITC">
+    <Meta Name="Category">2</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">International Typeface Corporation</Meta>
+  </Font>
+  <Font Family="Vivaldi">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW</Meta>
+  </Font>
+  <Font Family="Vladimir Script">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">URW</Meta>
+  </Font>
+  <Font Family="Latin">
+    <Meta Name="Category">1</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Wingdings 2">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Wingdings 3">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="DejaVu Sans">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Bitstream, Inc.</Meta>
+  </Font>
+  <Font Family="DejaVu Sans Mono">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Bitstream, Inc.</Meta>
+  </Font>
+  <Font Family="DejaVu Serif">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Bitstream, Inc.</Meta>
+  </Font>
+  <Font Family="OpenSymbol">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Bitstream, Inc.</Meta>
+  </Font>
+  <Font Family="SWGamekeys MT Regular">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">The Monotype Corporation</Meta>
+  </Font>
+  <Font Family="SWMacro Regular">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+  <Font Family="Sitka Banner">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks Ltd. and Carter + Cone</Meta>
+  </Font>
+  <Font Family="Sitka Display">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks Ltd. and Carter + Cone</Meta>
+  </Font>
+  <Font Family="Sitka Heading">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks Ltd. and Carter + Cone</Meta>
+  </Font>
+  <Font Family="Sitka Subheading">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks Ltd. and Carter + Cone</Meta>
+  </Font>
+  <Font Family="Sitka Small">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks Ltd. and Carter + Cone</Meta>
+  </Font>
+  <Font Family="Sitka Text">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Tiro Typeworks Ltd. and Carter + Cone</Meta>
+  </Font>
+  <Font Family="Arial Nova">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Monotype Imaging Inc.</Meta>
+  </Font>
+  <Font Family="Georgia Pro">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Monotype Imaging Inc.</Meta>
+  </Font>
+  <Font Family="Gill Sans Nova">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Monotype Imaging Inc.</Meta>
+  </Font>
+  <Font Family="Neue Haas Grotesk">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;</Meta>
+    <Meta Name="Vendor">Linotype GmbH</Meta>
+  </Font>
+  <Font Family="Rockwell Nova">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Monotype Imaging Inc.</Meta>
+  </Font>
+  <Font Family="Verdana Pro">
+    <Meta Name="Category">0</Meta>
+    <Meta Name="Scripts">Latn;Grek;Cyrl;</Meta>
+    <Meta Name="Vendor">Monotype Imaging Inc.</Meta>
+  </Font>
+  <Font Family="HoloLens MDL2 Assets">
+    <Meta Name="Category">3</Meta>
+    <Meta Name="Scripts">Zsym;</Meta>
+    <Meta Name="Vendor">Microsoft Corporation</Meta>
+  </Font>
+</MetaFile>
